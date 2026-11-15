@@ -1,4 +1,4 @@
-# Renk
+# Siyametrik ColorGrade
 
 A small RAW color grading tool that runs entirely in the browser. Built for DJI DNG files (Osmo Pocket, Osmo Action, Mavic), also opens JPG and PNG. Photos never leave your computer.
 
